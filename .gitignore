@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Exports
+exports/
+logs/
+
+# Temporary
+ordini.csv
